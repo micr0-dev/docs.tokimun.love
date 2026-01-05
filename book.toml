@@ -1,0 +1,23 @@
+[book]
+title = "tokimun"
+authors = ["micr0"]
+language = "en"
+description = "a language that compiles to lua, minus every pet peeve"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "tokimun"
+preferred-dark-theme = "tokimun"
+smart-punctuation = true
+no-section-label = true
+additional-css = ["theme/tokimun.css"]
+
+# Edit button - change YOUR_USERNAME and YOUR_REPO
+git-repository-url = "https://github.com/micr0-dev/docs.tokimun.love"
+edit-url-template = "https://github.com/micr0-dev/docs.tokimun.love/edit/main/src/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 10
