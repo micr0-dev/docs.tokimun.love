@@ -1,6 +1,6 @@
 [book]
 title = "tokimun"
-authors = ["micr0"]
+authors = ["micr0", "nelson"]
 language = "en"
 description = "a language that compiles to lua, minus every pet peeve"
 
@@ -8,8 +8,8 @@ description = "a language that compiles to lua, minus every pet peeve"
 build-dir = "book"
 
 [output.html]
-default-theme = "tokimun"
-preferred-dark-theme = "tokimun"
+default-theme = "coal"
+preferred-dark-theme = "coal"
 smart-punctuation = true
 no-section-label = true
 additional-css = ["theme/tokimun.css"]
