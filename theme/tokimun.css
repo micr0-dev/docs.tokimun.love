@@ -49,6 +49,10 @@
     --copy-button-filter-hover: invert(1) !important;
 }
 
+.hljs {
+    background: #111 !important;
+}
+
 /* Hide theme picker - single theme */
 #theme-list {
     display: none;
