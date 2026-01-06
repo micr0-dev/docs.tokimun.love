@@ -1,6 +1,6 @@
 # tokimun
 
-<span class="font-pona">olin2</span> a language that compiles to lua, minus every pet peeve.
+a language that compiles to lua, minus every pet peeve.
 
 ## pona <span class="font-pona">pona</span>
 
@@ -8,13 +8,9 @@ Write Lua without the frustrations. tokimun fixes the things you hate about Lua 
 
 ## Getting Started
 
-```lua
--- this is tokimun
-let greeting = "hello world"
-print(greeting)
-```
+this is where we will get started
 
-## Using sitelen pona
+## using sitelen pona in the docs
 
 You can use toki pona glyphs anywhere in the docs by wrapping text in a span:
 
