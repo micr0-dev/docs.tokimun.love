@@ -334,6 +334,10 @@ hr {
     border-bottom: none;
 }
 
+#mdbook-theme-toggle {
+    display: none;
+}
+
 #theme-list,
 #theme-toggle,
 .theme-popup {
