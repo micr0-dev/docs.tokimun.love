@@ -16,47 +16,37 @@
 
 /* Theme colors */
 .tokimun {
-    --bg: #000;
-    --fg: #fff;
-
-    --sidebar-bg: #000;
-    --sidebar-fg: #888;
-    --sidebar-non-existant: #444;
-    --sidebar-active: #fff;
-    --sidebar-spacer: #222;
-
-    --scrollbar: #333;
-
-    --icons: #555;
-    --icons-hover: #fff;
-
-    --links: #fff;
-
-    --inline-code-color: #888;
-
-    --theme-popup-bg: #111;
-    --theme-popup-border: #333;
-    --theme-hover: #111;
-
-    --quote-bg: #111;
-    --quote-border: #333;
-
-    --table-border-color: #333;
-    --table-header-bg: #111;
-    --table-alternate-bg: #0a0a0a;
-
-    --searchbar-border-color: #333;
-    --searchbar-bg: #111;
-    --searchbar-fg: #fff;
-    --searchbar-shadow-color: transparent;
-    --searchresults-header-fg: #666;
-    --searchresults-border-color: #333;
-    --searchresults-li-bg: #111;
-    --search-mark-bg: #333;
-
-    --color-scheme: dark;
-    --copy-button-filter: invert(0.6);
-    --copy-button-filter-hover: invert(1);
+    --bg: #000 !important;
+    --fg: #fff !important;
+    --sidebar-bg: #000 !important;
+    --sidebar-fg: #888 !important;
+    --sidebar-non-existant: #444 !important;
+    --sidebar-active: #fff !important;
+    --sidebar-spacer: #222 !important;
+    --scrollbar: #333 !important;
+    --icons: #555 !important;
+    --icons-hover: #fff !important;
+    --links: #fff !important;
+    --inline-code-color: #888 !important;
+    --theme-popup-bg: #111 !important;
+    --theme-popup-border: #333 !important;
+    --theme-hover: #111 !important;
+    --quote-bg: #111 !important;
+    --quote-border: #333 !important;
+    --table-border-color: #333 !important;
+    --table-header-bg: #111 !important;
+    --table-alternate-bg: #0a0a0a !important;
+    --searchbar-border-color: #333 !important;
+    --searchbar-bg: #111 !important;
+    --searchbar-fg: #fff !important;
+    --searchbar-shadow-color: transparent !important;
+    --searchresults-header-fg: #666 !important;
+    --searchresults-border-color: #333 !important;
+    --searchresults-li-bg: #111 !important;
+    --search-mark-bg: #333 !important;
+    --color-scheme: dark !important;
+    --copy-button-filter: invert(0.6) !important;
+    --copy-button-filter-hover: invert(1) !important;
 }
 
 /* Hide theme picker - single theme */
