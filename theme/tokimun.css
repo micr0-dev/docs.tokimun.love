@@ -330,18 +330,14 @@ hr {
     padding-bottom: 4rem;
 }
 
-.buttons button.clip-button::before {
-    filter: invert(0.6);
-    !important
-}
-
-.buttons button.clip-button:hover::before {
-    filter: invert(1);
-    !important
-}
-
 .right-buttons a {
     border-bottom: none;
+}
+
+#theme-list,
+#theme-toggle,
+.theme-popup {
+    display: none !important;
 }
 
 /* Mobile */
