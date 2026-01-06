@@ -1,14 +1,10 @@
 # Summary
 
 [Introduction](README.md)
+[Language Reference](language-reference.md)
 
-# Guide
+# Guides
 
-- [Getting Started](guide/getting-started.md)
-- [Syntax](guide/syntax.md)
-- [Compiling](guide/compiling.md)
-
-# Reference
-
-- [Standard Library](reference/stdlib.md)
-- [CLI](reference/cli.md)
+- [Getting Started](guides/getting-started.md)
+- [Syntax](guides/syntax.md)
+- [Compiling](guides/compiling.md)
